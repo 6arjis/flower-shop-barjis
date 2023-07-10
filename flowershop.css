@@ -88,3 +88,33 @@ span{
 .menu-section2-text{
     text-align: center;
 }
+.ms3-title{
+text-align: center;
+}
+.ms3-images{
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    width: 250px;
+    height: 250px;
+    
+}
+.ms3i{
+    padding: 0px 20px 0px 20px;
+}
+.last{
+    display: flex;
+    align-items: center;
+}
+.menu-section-4{
+    text-align: center;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    margin: 20px 50px 20px 20px ;
+    border-radius: 10px;
+}
+.hp{
+    padding: 30px;
+}
+.box{
+align-items: center;    
+}
