@@ -109,7 +109,7 @@ text-align: center;
     text-align: center;
     background-image: url("Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
-    margin: 20px 50px 20px 20px ;
+    margin: 50px 70px 50px 50px ;
     border-radius: 10px;
 }
 .hp{
@@ -117,4 +117,23 @@ text-align: center;
 }
 .box{
 align-items: center;    
+}
+.end2{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 15px;
+}
+.end1{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px 10px 10px 10px;
+}
+.end3{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.end{
+    background-color: black;
 }
