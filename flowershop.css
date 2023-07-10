@@ -35,3 +35,50 @@ font-weight: 400;
   height: 400px;
 
 }
+.titlepart2{
+    text-align: center;
+}
+.flower-sample{
+    height: 250px;
+    width: 190px;
+    align-items: center;
+}
+.flowers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.allflower{
+    text-align: center;
+}
+.menu-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgba(229, 84, 115, 0.10);
+    margin: 0px;
+    padding: 30px 30px 30px 30px;
+   
+}
+.menu1{
+    text-align: center;
+    padding: 20px;
+}
+.menu2{
+    width: 88px;
+    height: 88px;
+}
+span{
+    color: #E55473;
+}
+.menu-section-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 100px 30px 100px;
+    background-color: #E554730D;
+}
+.menu-image{
+    width: 250px;
+    height: 220px;
+}
