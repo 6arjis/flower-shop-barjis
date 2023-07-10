@@ -5,6 +5,7 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
+    align-items: center;
 }
 .title-p1{
     color: #272727;
@@ -27,7 +28,7 @@ font-weight: 400;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 30px 0px 130px;
+    padding: 30px 40px 0px 80px;
     margin: 0px;
 }
 .image-p1{
@@ -56,7 +57,8 @@ font-weight: 400;
     justify-content: space-around;
     align-items: center;
     background-color:rgba(229, 84, 115, 0.10);
-    margin: 0px;
+    background-position: center;
+    margin:10px 50px 10px 10px ;
     padding: 30px 30px 30px 30px;
    
 }
@@ -75,10 +77,14 @@ span{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 30px 100px 30px 100px;
+    padding: 30px 150px 30px 150px;
     background-color: #E554730D;
+    margin: 10px 50px 10px 10px;
 }
 .menu-image{
-    width: 250px;
+    width: 150px;
     height: 220px;
+}
+.menu-section2-text{
+    text-align: center;
 }
