@@ -1,0 +1,37 @@
+.button-primary{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+.title-p1{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+}
+.part1{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px 0px 130px;
+    margin: 0px;
+}
+.image-p1{
+  width: 335px;
+  height: 400px;
+
+}
