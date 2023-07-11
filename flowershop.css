@@ -115,9 +115,7 @@ text-align: center;
 .hp{
     padding: 30px;
 }
-.box{
-align-items: center;    
-}
+
 .end2{
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
@@ -135,5 +133,5 @@ align-items: center;
     padding: 10px;
 }
 .end{
-    background-color: black;
+    background-color:white;
 }
