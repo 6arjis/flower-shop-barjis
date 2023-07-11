@@ -64,7 +64,7 @@ font-weight: 400;
     align-items: center;
     background-color:rgba(229, 84, 115, 0.10);
     background-position: center;
-    margin:10px 50px 10px 50px ;
+    margin:10px 90px 10px 50px ;
     padding: 30px 30px 30px 30px;
    
 }
@@ -85,7 +85,7 @@ span{
     justify-content: space-around;
     padding: 30px 150px 30px 150px;
     background-color: #E554730D;
-    margin: 10px 50px 10px 50px;
+    margin: 10px 90px 10px 50px;
 }
 .menu-image{
     width: 150px;
@@ -103,7 +103,7 @@ text-align: center;
     padding: 20px 20px 20px 180px;
     width: 250px;
     height: 250px;
-    margin: 10px 10px 10px 60px;
+    margin: 10px 90px 10px 60px;
  
     
 }
@@ -118,7 +118,7 @@ text-align: center;
     text-align: center;
     background-image: url("Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
-    margin: 70px 50px 70px 50px ;
+    margin: 70px 80px 70px 50px ;
     border-radius: 10px;
     justify-content: center;
     padding: 80px;
