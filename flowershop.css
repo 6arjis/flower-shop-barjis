@@ -2,10 +2,12 @@
     background-color: palevioletred;
     color: white;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 700;
     align-items: center;
+    padding: 20px;
+    border: none;
 }
 .title-p1{
     color: #272727;
@@ -30,6 +32,7 @@ font-weight: 400;
     align-items: center;
     padding: 30px 40px 0px 80px;
     margin: 0px;
+    font-size: 5px;
 }
 .image-p1{
   width: 335px;
@@ -51,6 +54,9 @@ font-weight: 400;
 }
 .allflower{
     text-align: center;
+    background-color:pink;
+    border-radius: 5000px;
+    padding: 20px 20px 0px 20px;
 }
 .menu-section{
     display: flex;
@@ -58,7 +64,7 @@ font-weight: 400;
     align-items: center;
     background-color:rgba(229, 84, 115, 0.10);
     background-position: center;
-    margin:10px 50px 10px 10px ;
+    margin:10px 50px 10px 50px ;
     padding: 30px 30px 30px 30px;
    
 }
@@ -79,7 +85,7 @@ span{
     justify-content: space-around;
     padding: 30px 150px 30px 150px;
     background-color: #E554730D;
-    margin: 10px 50px 10px 10px;
+    margin: 10px 50px 10px 50px;
 }
 .menu-image{
     width: 150px;
@@ -88,14 +94,17 @@ span{
 .menu-section2-text{
     text-align: center;
 }
+
 .ms3-title{
 text-align: center;
 }
 .ms3-images{
     display: flex;
-    padding: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 180px;
     width: 250px;
     height: 250px;
+    margin: 10px 10px 10px 60px;
+ 
     
 }
 .ms3i{
@@ -109,8 +118,11 @@ text-align: center;
     text-align: center;
     background-image: url("Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
-    margin: 50px 70px 50px 50px ;
+    margin: 70px 50px 70px 50px ;
     border-radius: 10px;
+    justify-content: center;
+    padding: 80px;
+    align-items: center;
 }
 .hp{
     padding: 30px;
@@ -133,5 +145,46 @@ text-align: center;
     padding: 10px;
 }
 .end{
-    background-color:white;
+    background-color:black;
+    height: 300px;
+    width: 1600px;
+    padding: 50px 50px 50px 20px;
+    text-align: center;
+    
+}
+*/
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+form{
+    background: white;
+    width: 500px;
+    height: 50px;  
+    display: flex;
+    
+}
+form input{
+   flex: 1;
+   border: none;
+   outline: none;
+   align-items: center;
+   padding: 15px;
+  
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+form button{
+    background-color: #E55473;
+    padding: 15px;
+    border: none;
+    outline: none;
+    letter-spacing: 1px;
+    color: aliceblue;
+    border-radius: 5px;
 }
